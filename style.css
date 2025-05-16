@@ -197,7 +197,7 @@ button {
     text-align: center;
 }
 .stats-container {
-    background-image: url(../image/icon.png);
+    background-image: url(./images/icons.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
